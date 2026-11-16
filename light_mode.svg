@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,Menlo,DejaVu Sans Mono,monospace" width="1030px" height="570px" font-size="15px">
+<style>
+@font-face{src:local('Consolas'),local('Consolas Bold');font-family:'ConsolasFallback';font-display:swap;-webkit-size-adjust:109%;size-adjust:109%;}
+.key{fill:#953800;} .value{fill:#0a3069;} .dots{fill:#c2cfde;} .add{fill:#1a7f37;} .dele{fill:#cf222e;} .text{fill:#24292f;}
+text,tspan{white-space:pre;}
+</style>
+<rect width="1030px" height="570px" fill="#f6f8fa" rx="15"/>
+<text xml:space="preserve" x="18" y="112" fill="#24292f" font-size="10.5px">
+<tspan x="18" dy="0">                          .,:;;;;;:;;-;:.                       </tspan>
+<tspan x="18" dy="12.6">                       .:::,,,,,,.....,;--:                     </tspan>
+<tspan x="18" dy="12.6">                    .,::,..............,;;;-:                   </tspan>
+<tspan x="18" dy="12.6">                   ,::,..,::::,...........,:;;                  </tspan>
+<tspan x="18" dy="12.6">                  ,,:,.-+xXx**+=~--;:,,......,;                 </tspan>
+<tspan x="18" dy="12.6">                 ,,:,.=XXXxxx**+==+==~~~-;:,.,,:                </tspan>
+<tspan x="18" dy="12.6">                .,,,,:*#XXXXXxxx*******xx***,.,,,               </tspan>
+<tspan x="18" dy="12.6">                ,,.,,,=XX###X#XXXXXXXxxxX##X~.;,,               </tspan>
+<tspan x="18" dy="12.6">                ,,.,.=X##+~;::;-;~*+:...,;=X#;,,:               </tspan>
+<tspan x="18" dy="12.6">                .:,.=%#*;-~;,.,,-*=,...,:-::x#,,,               </tspan>
+<tspan x="18" dy="12.6">                 :,,x%X=~~~;::,-x#X-:,-::-~;+%;:                </tspan>
+<tspan x="18" dy="12.6">                 ,,,x%XXx+====*X###x*=---~+xx%~-                </tspan>
+<tspan x="18" dy="12.6">                .=x~X%####XX###%%##%#xXXX#####x~.               </tspan>
+<tspan x="18" dy="12.6">                .~xx*###%####X#x*+~-+*+xXX##Xx+~                </tspan>
+<tspan x="18" dy="12.6">                 :X+~*XXX##XxXX=-;;::+~=+*+===~;                </tspan>
+<tspan x="18" dy="12.6">                  =X=~+*****~-~=~=+~--:,;--;--~.                </tspan>
+<tspan x="18" dy="12.6">                   +x~~~=~++:~xX#x***+~::-;;-;~                 </tspan>
+<tspan x="18" dy="12.6">                    :;;:;;-=:-=~;,,,:--::;,:::.                 </tspan>
+<tspan x="18" dy="12.6">                     .:::;;;::;;;-;;::,,::,,,.                  </tspan>
+<tspan x="18" dy="12.6">                      ::,:,,,:::::,:,,,,...,                    </tspan>
+<tspan x="18" dy="12.6">                     ,:=,.,,,,,...........:,                    </tspan>
+<tspan x="18" dy="12.6">                    :.,*~;,,,,,.,.......,;::,                   </tspan>
+<tspan x="18" dy="12.6">                   ,:,.~+==~-;;;::::::;;;,,:;,                  </tspan>
+<tspan x="18" dy="12.6">                .,;;,;,:~========~-;;;;;,,,,:;;:,.              </tspan>
+<tspan x="18" dy="12.6">            ,::;--:::::::;~~==~~-::;;;;:,,,,::::;;;:,.          </tspan>
+<tspan x="18" dy="12.6">       .,:;~-;;;;:..:,,::::~~==~-;-;:;:.:,,,;,.;::::;-;:,.      </tspan>
+<tspan x="18" dy="12.6">   .,:;--;;,,,,:::..,:,:;,.:;-~=~~----,.,:,,,,,::,,::;;;;;;::,. </tspan>
+<tspan x="18" dy="12.6">::;;::;:,,,,,,,:::,..,,,:......:;;-;:,...:,:,,,,:,::,,,,:,,::::;</tspan>
+<tspan x="18" dy="12.6">;:::,::,,::::,,:::::,,,,,.......:-,......,;:,::::::,,,,,,,::,::;</tspan>
+</text>
+<text xml:space="preserve" x="470" y="32" class="text">
+<tspan x="470" dy="0"><tspan class="text">mahessarsajjad@github </tspan><tspan class="dots">------------------------------------</tspan></tspan>
+<tspan x="470" dy="20"><tspan class="key">OS</tspan><tspan class="text">: </tspan><tspan class="dots">........................... </tspan><tspan class="value">macOS, iOS, Android, Linux</tspan></tspan>
+<tspan x="470" dy="20"><tspan class="key">Uptime</tspan><tspan class="text">: </tspan><tspan class="dots">...................... </tspan><tspan class="value">5 years, 10 months, 15 days</tspan></tspan>
+<tspan x="470" dy="20"><tspan class="key">Host</tspan><tspan class="text">: </tspan><tspan class="dots">................................... </tspan><tspan class="value">Good Merch Group</tspan></tspan>
+<tspan x="470" dy="20"><tspan class="key">Kernel</tspan><tspan class="text">: </tspan><tspan class="dots">.................. </tspan><tspan class="value">Operations &amp; Automation Manager</tspan></tspan>
+<tspan x="470" dy="20"><tspan class="key">Freelance</tspan><tspan class="text">: </tspan><tspan class="dots">............................. </tspan><tspan class="value">Systems Developer</tspan></tspan>
+<tspan x="470" dy="20"><tspan class="key">IDE</tspan><tspan class="text">: </tspan><tspan class="dots">......................... </tspan><tspan class="value">Xcode, VS Code, Claude Code</tspan></tspan>
+<tspan x="470" dy="20"><tspan class="dots">.</tspan></tspan>
+<tspan x="470" dy="20"><tspan class="key">Languages.Programming</tspan><tspan class="text">: </tspan><tspan class="dots">.... </tspan><tspan class="value">Python, Swift, JavaScript, SQL</tspan></tspan>
+<tspan x="470" dy="20"><tspan class="key">Languages.Computer</tspan><tspan class="text">: </tspan><tspan class="dots">................ </tspan><tspan class="value">HTML, CSS, JSON, YAML</tspan></tspan>
+<tspan x="470" dy="20"><tspan class="dots">.</tspan></tspan>
+<tspan x="470" dy="20"><tspan class="key">Stack.Backend</tspan><tspan class="text">: </tspan><tspan class="dots">............. </tspan><tspan class="value">Supabase, PostgreSQL, Node.js</tspan></tspan>
+<tspan x="470" dy="20"><tspan class="key">Stack.Payments</tspan><tspan class="text">: </tspan><tspan class="dots">................................... </tspan><tspan class="value">Stripe</tspan></tspan>
+<tspan x="470" dy="20"><tspan class="key">Stack.Data</tspan><tspan class="text">: </tspan><tspan class="dots">.................... </tspan><tspan class="value">Python, Power BI, Grafana</tspan></tspan>
+<tspan x="470" dy="20"><tspan class="key">Stack.AI</tspan><tspan class="text">: </tspan><tspan class="dots">......................... </tspan><tspan class="value">LLM agents, automation</tspan></tspan>
+<tspan x="470" dy="20"><tspan class="dots">.</tspan></tspan>
+<tspan x="470" dy="20"><tspan class="key">Education</tspan><tspan class="text">: </tspan><tspan class="dots">............... </tspan><tspan class="value">MSc Business Analytics, Warwick</tspan></tspan>
+<tspan x="470" dy="20"><tspan class="key">Hobbies.Build</tspan><tspan class="text">: </tspan><tspan class="dots">................. </tspan><tspan class="value">replacing rented software</tspan></tspan>
+<tspan x="470" dy="20"><tspan class="text">- Contact </tspan><tspan class="dots">------------------------------------------------</tspan></tspan>
+<tspan x="470" dy="20"><tspan class="key">Email</tspan><tspan class="text">: </tspan><tspan class="dots">.......................... </tspan><tspan class="value">mahessarsajjad@gmail.com</tspan></tspan>
+<tspan x="470" dy="20"><tspan class="key">LinkedIn</tspan><tspan class="text">: </tspan><tspan class="dots">................. </tspan><tspan class="value">linkedin.com/in/sajjadmahessar</tspan></tspan>
+<tspan x="470" dy="20"><tspan class="key">Website</tspan><tspan class="text">: </tspan><tspan class="dots">........................... </tspan><tspan class="value">sajjad.omni-genai.com</tspan></tspan>
+<tspan x="470" dy="20"><tspan class="text">- GitHub Stats </tspan><tspan class="dots">-------------------------------------------</tspan></tspan>
+<tspan x="470" dy="20"><tspan class="key">Repos</tspan><tspan class="text">: </tspan><tspan class="dots">..... </tspan><tspan class="value">0 {Contributed: 0}</tspan><tspan class="text"> | </tspan><tspan class="key">Stars</tspan><tspan class="text">: </tspan><tspan class="dots">............... </tspan><tspan class="value">0</tspan></tspan>
+<tspan x="470" dy="20"><tspan class="key">Commits</tspan><tspan class="text">: </tspan><tspan class="dots">.................... </tspan><tspan class="value">0</tspan><tspan class="text"> | </tspan><tspan class="key">Followers</tspan><tspan class="text">: </tspan><tspan class="dots">........... </tspan><tspan class="value">0</tspan></tspan>
+<tspan x="470" dy="20"><tspan class="key">Lines of Code</tspan><tspan class="text">: </tspan><tspan class="dots">............................ </tspan><tspan class="value">0</tspan><tspan class="text"> ( </tspan><tspan class="add">0++</tspan><tspan class="text">, </tspan><tspan class="dele">0--</tspan><tspan class="text"> )</tspan></tspan>
+</text>
+</svg>
